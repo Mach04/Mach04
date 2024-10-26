@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mach04
-- 👀 I’m interested in Softwere Engineering
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning C and Pyphon 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
